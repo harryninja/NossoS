@@ -1,0 +1,60 @@
+.main {
+    background-color: #ffff;
+    height: 150vh;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.main-card {
+    background-color: #fff;
+    height: auto;
+    width: 110vh;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    box-shadow: 0 0 12px grey;
+    padding: 50px 0;
+}
+
+.carding {
+    background-color: #fff;
+    border-radius: 5px;
+    width: 110vh;
+    height: auto;
+    display: flex;
+    margin: 10px;
+    justify-content: center;
+    align-items: left;
+    flex-direction: column;
+    padding: 0 270px;
+}
+
+.carding a {
+    margin-top: 10px;
+}
+
+.carding a span {
+    color: orange;
+    font-size: 18px;
+}
+
+.carding p {
+    font-size: medium;
+    font-weight: 500;
+    text-align: justify;
+}
+
+.btn-sender {
+    width: 500px;
+    border-radius: 50px;
+    background: #ff8400;
+    height: 51px;
+    border-color: #ff8400;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 24px;
+    margin: 25px;
+    margin-top: 80px;
+}

@@ -1,0 +1,105 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.wrapper {
+  max-width: 1350px;
+  padding: 0px 60px;
+  margin: 50px auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+}
+
+.wrapper img {
+  cursor: pointer;
+}
+
+/* modal */
+.overlay_modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: #404040ec;
+  display: flex;
+  align-items: center;
+  transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  -webkit-transform: translateY(0%);
+  animation: modalopen 1s;
+}
+
+.overlay_modal_causas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: #404040ec;
+  display: flex;
+  align-items: center;
+  transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  -webkit-transform: translateY(0%);
+  animation: modalopen 1s;
+}
+
+.overlay_modal img {
+  display: block;
+  margin: 60px auto;
+  margin-top: 100px;
+  box-shadow: 3px 5px 7px rgba(0, 0, 0, 0.5);
+}
+
+.overlay_modal_causas img {
+  display: block;
+  margin: 60px auto;
+  margin-top: 100px;
+  box-shadow: 3px 5px 7px rgba(0, 0, 0, 0.5);
+  height: 200px;
+}
+
+.overlay_modal > span {
+  position: absolute;
+  top: 120px;
+  right: 20px;
+  font-size: 30px;
+  color: #ffffff;
+  z-index: 99999;
+  cursor: pointer;
+}
+
+.overlay_modal_causas > span {
+  position: absolute;
+  top: 120px;
+  right: 20px;
+  font-size: 30px;
+  color: #ffffff;
+  z-index: 99999;
+  cursor: pointer;
+}
+
+@keyframes modalopen {
+  0%{
+    top: -100%;
+    opacity: 0;
+    transition: top 0.4s, opacity 0.4s;
+  }
+}

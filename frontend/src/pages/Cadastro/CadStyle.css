@@ -1,0 +1,168 @@
+.expo-1 {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 0px 4px 29px rgb(0 0 0 / 25%);
+  padding: 20px 20px 35px;
+  width: 35%;
+  margin-right: 60px;
+}
+
+.main-expo {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-top: 78px;
+  height: 712px;
+}
+
+.form-expo {
+  text-align: start;
+  width: 30%;
+}
+
+.form-expo input {
+  padding: 15px 25px;
+  border: none;
+  border-radius: 8px;
+  background-color: #f3f3f3;
+  font-size: 18px;
+  height: 40px;
+}
+
+.input-line {
+  padding: 10px 0;
+}
+
+.expo-1 h2 {
+  font-family: "Montserrat", sans-serif;
+  color: #000000;
+  font-size: 35px;
+  font-weight: 800;
+  width: 100%;
+  line-height: 49px;
+  text-align: start;
+}
+
+.circ-img {
+  margin-top: 50px;
+}
+
+@media only screen and (min-width: 768px) {
+  #expositor {
+    overflow-y: scroll;
+  }
+}
+
+.form-expo h4 {
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Montserrat", sans-serif;
+  color: #414141;
+  /* width: 120%; */
+  /* margin-top: 70px; */
+}
+
+.form-expo label {
+  font-size: 20px;
+  line-height: 24px;
+  color: #414141;
+}
+
+.btn-cad {
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50px;
+  background: #414141;
+  height: 51px;
+  background: #414141;
+  color: #ffffff;
+  font-weight: 700;
+  margin-top: 10px;
+  font-size: 20px;
+}
+
+.btn-cad:hover {
+  color: #fff;
+  background-color: #2d2d2d;
+  border-color: #2d2d2d;
+}
+
+.button-cad {
+  display: grid;
+  justify-content: center;
+}
+
+@media (min-width: 768px) and (max-width: 999px) {
+  .expo-1 {
+    width: 336px;
+  }
+}
+
+@media (max-width: 767px) {
+  .main-expo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 400px;
+  }
+
+  .form-expo {
+    text-align: start;
+    width: 90%;
+    margin-top: 50px;
+  }
+
+  .button-cad {
+    margin-top: 10px;
+  }
+}
+
+@media (min-width: 429px) and (max-width: 767px) {
+  .expo-1 {
+    width: 90%;
+    margin-right: 0px;
+    margin-top: 40px;
+  }
+}
+
+@media (min-width: 374px) and (max-width: 428px) {
+  .expo-1 {
+    width: 90%;
+    margin-right: 0px;
+    margin-top: 61px;
+  }
+}
+
+@media (min-width: 300px) and (max-width: 373px) {
+  .expo-1 {
+    width: 90%;
+    margin-right: 0px;
+    margin-top: 111px;
+  }
+}
+
+@media (max-width: 342px) {
+  .expo-1 {
+    width: 90%;
+    margin-right: 0px;
+    margin-top: 159px;
+  }
+}
+
+.cad-error {
+  text-align: center;
+  color: red;
+  font-size: 15px;
+}
+
+@media (min-width: 769px) {
+  #promotor,
+  #expositor,
+  #montador {
+    overflow-y: hidden;
+  }
+}

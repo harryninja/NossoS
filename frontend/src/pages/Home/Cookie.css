@@ -1,0 +1,47 @@
+.customCard{
+    background-color: #ffffff;
+    align-items: center;
+    position: fixed;
+    display: flex;
+    flex-direction: row;
+    bottom: 30px;
+    left: 20px;
+    justify-content: center;
+    width: 120vh;
+    height: 7vh;
+    padding: 0 30px;
+    border-radius: 5px;
+    z-index: 1;
+    box-shadow: 0 0 5px;
+}
+
+.customCard p{
+    color: #595959;
+    font-weight: 500;
+    font-size: 15px;
+}
+.customCard a{
+    color: #595959;
+    text-decoration: underline;
+    font-weight: 500;
+}
+.customCard span{
+    color: #595959;
+    text-decoration: underline;
+}
+.customCard span:hover{
+    cursor: pointer;
+}
+
+.btn-sendert {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+    background: orange;
+    height: 30px;
+    border: none;
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 14px;
+  }

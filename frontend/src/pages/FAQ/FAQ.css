@@ -1,0 +1,189 @@
+.mainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+    width: auto;
+    margin-bottom: 500px;
+}
+
+.banner__faq{
+    width: 90vw;
+    height: 900px;
+    background: url('../../images/elipse-1.png') no-repeat center;
+    margin: 0 auto;
+    margin-top: 2000px;
+    text-align: center;
+}
+
+.banner__faq img{
+    position: absolute;
+    top: 300px;
+    margin-left: 20%;
+}
+
+.text__banner--faq{
+    position: absolute;
+    top: 270px;
+    color: #000000;
+    font-size: 27px;
+    margin-left: 60%;
+}
+
+.title__banner--faq{
+    position: absolute;
+    top: 300px;
+    color: #000000;
+    font-weight: 800;
+    margin-left: 40%;
+}
+
+.accordion__container{
+    position: relative;
+    top: 200px;
+}
+
+.css-16umm7c-MuiTypography-root{
+    width: 80% !important;
+}
+
+.accordion__faq{
+    width: 60vw;
+    box-shadow: 0 0 10px #9b9090 !important;
+    border-radius: 5px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root:before{
+    right: 1000px !important;
+}
+
+.css-1elwnq4-MuiPaper-root-MuiAccordion-root.Mui-expanded{
+    margin: 0 auto !important;
+}
+
+.css-pwcg7p-MuiCollapse-root{
+    margin-bottom: 20px;
+}
+
+.endpage__faq{
+    position: relative;
+    top: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 200px;
+    text-align: center;
+}
+
+.endpage__faq div h3{
+    color: #000000;
+    font-size: 28px;
+    font-weight: 900;
+}
+
+.endpage__faq div p{
+    color: #474747;
+    font-weight: 500;
+}
+
+.form__end--faq input{
+    width: 250px;
+    background-color: #D9D9D9;
+    border: none;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+.form__end--faq button{
+    position: relative;
+    top: 15px;
+    margin-left: 20px;
+    width: 50px;
+    height: 50px;
+    border: none;
+    background-image: url('../../images/message-orange-circle.png');
+    background-color: transparent;
+}
+
+@media (max-width: 1300px){
+    .title__banner--faq{
+        margin-left: 20%;
+    }
+    .text__banner--faq{
+        margin-left: 40%;
+    }
+}
+
+@media (max-width: 1150px){
+    .banner__faq{
+        background-size: 600px;
+    }
+
+    .banner__faq img{
+        width: 200px;
+    }
+}
+
+@media (max-width: 700px){
+    .banner__faq{
+        background-size: cover;
+    }
+
+    .banner__faq img{
+        width: 150px;
+    }
+
+    .accordion__faq{
+        width: 80vw;
+        margin-left: 10%;
+    }
+    .endpage__faq{
+        margin-left: 14%;
+    }
+    .css-1elwnq4-MuiPaper-root-MuiAccordion-root.Mui-expanded{
+        margin-left: 10% !important;
+    }
+    .accordion__container{
+        position: relative;
+        top: 500px;
+    }
+}
+
+@media (max-width: 400px){
+
+    .accordion__faq{
+        margin-left: 15%;
+    }
+    .css-1elwnq4-MuiPaper-root-MuiAccordion-root.Mui-expanded{
+        margin-left: 15% !important;
+    }
+    .banner__faq {
+        margin-top: 2200px;
+    }
+    .banner__faq img{
+        top: 200px;
+        width: 100px;
+    }
+    .accordion__container{
+        position: relative;
+        top: 600px;
+    }
+    .endpage__faq{
+        top: 700px;
+    }
+}
+
+@media (max-width: 350px){
+
+    .accordion__container{
+        position: relative;
+        top: 900px;
+    }
+    .endpage__faq{
+        top: 1000px;
+    }
+}
+

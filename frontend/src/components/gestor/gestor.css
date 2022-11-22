@@ -1,0 +1,86 @@
+.MuiBox-root-2 {
+    margin-top: 100px;
+  }
+
+  .FormBox {
+    box-shadow: 1px 3px 7px grey;
+  }
+
+  .Step {
+    margin: 20px 0;
+    background-color: #fafafa;
+  }
+
+  .first-div {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .second-div {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .third-div {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  #input-event,
+  #input-city {
+    width: 300px;
+  }
+
+  .distance {
+    padding: 20px;
+    width: 50px;
+  }
+
+  #btn-upload {
+    width: 300px;
+  }
+
+  #input-place {
+    width: 310px;
+  }
+
+  @media (min-width: 768px) and (max-width: 857px) {
+    #input-place {
+      width: 300px;
+    }
+  }
+
+  .label-btn {
+    width: 482px;
+  }
+
+  .form-options {
+    width: 500px;
+  }
+
+  .open,
+  .mont {
+    height: 50px;
+  }
+
+  .options-toggle {
+    width: 33%;
+  }
+
+  .css-1gjgmky-MuiToggleButtonGroup-root
+    .MuiToggleButtonGroup-grouped:not(:last-of-type) {
+    width: 100%;
+  }
+
+  .css-1gjgmky-MuiToggleButtonGroup-root
+    .MuiToggleButtonGroup-grouped:not(:first-of-type) {
+    width: 100%;
+  }
+
+  .MuiStepIcon-root.MuiStepIcon-active {
+    color: #ff8401 !important;
+  }
+
+  .MuiStepIcon-root.MuiStepIcon-completed {
+    color: #ff8401 !important;
+  }

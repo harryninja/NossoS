@@ -1,0 +1,427 @@
+{
+  "Header": {
+    "title": "O melhor stand em 5 minutos",
+    "paragraph": "A maneira mais prática e inteligente de orçar e gerenciar seu projeto de stand e cenografia.",
+    "question": "Em que cidade você quer o seu stand?"
+  },
+  "About": {
+    "paragraph": "Nossostand é a solução 360° para qualquer empresa que deseja viabilizar um projeto de stand e cenografia em QUALQUER cidade do Brasil"
+  },
+  "Eventos": [
+    {
+      "title": "IN-COSMETICS LATIN AMERICA",
+      "largeImage": "eventos/incosmetics20_expand.png",
+      "smallImage": "eventos/incosmetics20.jpeg",
+      "location": "EXPO CENTER NORTE",
+      "date": "21/09/2022 a 22/09/2022",
+      "time": "Das 10:00 às 19:00",
+      "valor": "R$0,00",
+      "links": "https://www.in-cosmetics.com/latin-america/pt-br.html"
+    },
+    {
+      "title": "ISC BRASIL",
+      "largeImage": "eventos/isc_brasil_expand.png",
+      "smallImage": "eventos/isc_brasil.jpeg",
+      "location": "EXPO CENTER NORTE",
+      "date": "21/09/2022 a 23/09/2022",
+      "time": "Das 10:00 às 19:00",
+      "valor": "R$0,00",
+      "links": "https://www.iscbrasil.com.br/"
+    },
+    {
+      "title": "SEAFOOD SHOW LATIN AMERICA",
+      "largeImage": "eventos/seafood_show_expand.png",
+      "smallImage": "eventos/seafood_show.jpeg",
+      "location": "PRO MAGNO",
+      "date": "17/10/2022 a 19/10/2022",
+      "time": "Das 10:00 às 19:00",
+      "valor": "R$0,00",
+      "links": "https://seafoodshow.com.br/"
+    },
+    {
+      "title": "BRAZIL WINDPOWER",
+      "largeImage": "eventos/brazil_windpower_expand.png",
+      "smallImage": "eventos/brazil_windpower.jpg",
+      "location": "SÃO PAULO EXPO EXHIBITION & CONVENTION CENTER",
+      "date": "18/10/2022 a 20/10/2022",
+      "time": "Das 08:30 às 19:30",
+      "valor": "R$0,00",
+      "links": "https://www.brazilwindpower.com.br/pt/home.html"
+    },
+    {
+      "title": "FUTURECOM",
+      "largeImage": "eventos/future_com_expand.png",
+      "smallImage": "eventos/future_com.jpeg",
+      "location": "SÃO PAULO EXPO EXHIBITION & CONVENTION CENTER",
+      "date": "18/10/2022 a 20/10/2022",
+      "time": "Das 10:00 às 20:00",
+      "valor": "R$0,00",
+      "links": "https://www.futurecom.com.br/pt/home.html"
+    },
+    {
+      "title": "SALÃO DUAS RODAS",
+      "largeImage": "eventos/duas_rodas_expand.png",
+      "smallImage": "eventos/duas_rodas.png",
+      "location": "SÃO PAULO EXPO EXHIBITION & CONVENTION CENTER",
+      "date": "01/11/2022 a 06/11/2022",
+      "time": "Das 10:00 às 20:00",
+      "valor": "R$0,00",
+      "links": "https://www.salaoduasrodas.com.br/"
+    },
+    {
+      "title": "MOVIMAT",
+      "largeImage": "eventos/movimat_expand.png",
+      "smallImage": "eventos/movimat.jpeg",
+      "location": "SÃO PAULO EXPO EXHIBITION & CONVENTION CENTER",
+      "date": "16/11/2022 a 20/11/2022",
+      "time": "Das 12:00 às 21:00",
+      "valor": "R$0,00",
+      "links": "https://www.expomovimat.com.br/"
+    },
+    {
+      "title": "BioBrasil",
+      "largeImage": "eventos/bio_brasil_expand.png",
+      "smallImage": "eventos/bio_brasil.jpg",
+      "location": "SÃO PAULO EXPO EXHIBITION & CONVENTION CENTER",
+      "date": "10/11/2022 a 15/11/2022",
+      "time": "Das 09:00 às 19:30",
+      "valor": "R$0,00",
+      "links": "Quisque vitae metus et ligula eleifend"
+    },
+    {
+      "title": "FENATRAN",
+      "largeImage": "eventos/fenatran_expand.png",
+      "smallImage": "eventos/fenatran.png",
+      "location": "SÃO PAULO EXPO EXHIBITION & CONVENTION CENTER",
+      "date": "16/11/2022 a 20/11/2022",
+      "time": "Das 12:00 às 21:00",
+      "valor": "R$0,00",
+      "links": "https://www.fenatran.com.br/"
+    },
+    {
+      "title": "VegFest",
+      "largeImage": "eventos/vegfest_expand.png",
+      "smallImage": "eventos/vegfest.png",
+      "location": "ANHEMBI",
+      "date": "08/12/2022 a 11/12/2022",
+      "time": "Das 09:00 às 19:00",
+      "valor": "R$0,00",
+      "links": "https://www.svb.org.br/vegfest/"
+    },
+    {
+      "title": "INTERMODAL SOUTH AMERICA",
+      "largeImage": "eventos/intermodal_expand.png",
+      "smallImage": "eventos/intermodal.jpeg",
+      "location": "SÃO PAULO EXPO EXHIBITION & CONVENTION CENTER",
+      "date": "28/02/2023 a 02/03/2023",
+      "time": "Das 13:00 às 21:00",
+      "valor": "R$0,00",
+      "links": "https://www.intermodal.com.br/pt/home.html"
+    },
+    {
+      "title": "NT EXPO",
+      "largeImage": "eventos/nt_expo_expand.png",
+      "smallImage": "eventos/nt_expo.jpeg",
+      "location": "SÃO PAULO EXPO EXHIBITION & CONVENTION CENTER",
+      "date": "28/02/2023 a 02/03/2023",
+      "time": "Das 13:00 às 21:00",
+      "valor": "R$0,00",
+      "links": "https://www.ntexpo.com.br/pt/home.html"
+    },
+    {
+      "title": "ABRIN",
+      "largeImage": "eventos/abrin_expand.png",
+      "smallImage": "eventos/abrin.jpeg",
+      "location": "EXPO CENTER NORTE",
+      "date": "05/03/2023 a 08/03/2023",
+      "time": "Das 13:00 às 21:00",
+      "valor": "R$0,00",
+      "links": "https://www.ntexpo.com.br/pt/home.html"
+    },
+    {
+      "title": "WORLD TRAVEL MARKET (WTM) LATIN AMERICA",
+      "largeImage": "eventos/world_travel_expand.png",
+      "smallImage": "eventos/world_travel.jpeg",
+      "location": "EXPO CENTER NORTE",
+      "date": "03/04/2023 a 05/04/2023",
+      "time": "Das 10:00 às 18:00",
+      "valor": "R$0,00",
+      "links": "https://www.wtm.com/latin-america/pt-br.html"
+    },
+    {
+      "title": "PLÁSTICO BRASIL",
+      "largeImage": "eventos/plastico_brasil_expand.png",
+      "smallImage": "eventos/plastico_brasil.png",
+      "location": "EXPO CENTER NORTE",
+      "date": "27/03/2023 a 31/03/2023",
+      "time": "Das 10:00 às 19:00",
+      "valor": "R$0,00",
+      "links": "https://www.plasticobrasil.com.br/pt/HOME.html"
+    }
+  ],
+  "EventosIndividuais": [
+    {
+      "largeImage": "eventos/incosmetics20_expand.png",
+      "smallImage": "eventos/incosmetics20.jpeg"
+    },
+    {
+      "largeImage": "eventos/isc_brasil_expand.png",
+      "smallImage": "eventos/isc_brasil.jpeg"
+    },
+    {
+      "largeImage": "eventos/seafood_show_expand.png",
+      "smallImage": "eventos/seafood_show.jpeg"
+    },
+    {
+      "largeImage": "eventos/brazil_windpower_expand.png",
+      "smallImage": "eventos/brazil_windpower.jpg"
+    },
+    {
+      "largeImage": "eventos/future_com_expand.png",
+      "smallImage": "eventos/future_com.jpeg"
+    },
+    {
+      "largeImage": "eventos/movimat_expand.png",
+      "smallImage": "eventos/movimat.jpeg"
+    },
+    {
+      "largeImage": "eventos/bio_brasil_expand.png",
+      "smallImage": "eventos/bio_brasil.jpg"
+    },
+    {
+      "largeImage": "eventos/fenatran_expand.png",
+      "smallImage": "eventos/fenatran.png"
+    },
+    {
+      "largeImage": "eventos/vegfest_expand.png",
+      "smallImage": "eventos/vegfest.png"
+    },
+    {
+      "largeImage": "eventos/intermodal_expand.png",
+      "smallImage": "eventos/intermodal.jpeg"
+    },
+    {
+      "largeImage": "eventos/nt_expo_expand.png",
+      "smallImage": "eventos/nt_expo.jpeg"
+    },
+    {
+      "largeImage": "eventos/abrin_expand.png",
+      "smallImage": "eventos/abrin.jpeg"
+    },
+    {
+      "largeImage": "eventos/world_travel_expand.png",
+      "smallImage": "eventos/world_travel.jpeg"
+    },
+    {
+      "largeImage": "eventos/plastico_brasil_expand.png",
+      "smallImage": "eventos/plastico_brasil.png"
+    },
+    {
+      "largeImage": "eventos/incosmetics20_expand.png",
+      "smallImage": "eventos/incosmetics20.jpeg"
+    },
+    {
+      "largeImage": "eventos/isc_brasil_expand.png",
+      "smallImage": "eventos/isc_brasil.jpeg"
+    }
+  ],
+  "Causas": [
+    {
+      "title": "Saúde (ODS 3)",
+      "ModalImage": "img/Causa-3.png",
+      "smallImage": "https://images.unsplash.com/photo-1512678080530-7760d81faba6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=874&q=80",
+      "description": "Garantir o acesso à saúde de qualidade e promover o bem-estar para todos, em todas as idades",
+      "img": "https://crianca.mppr.mp.br/arquivos/Image/icons/ods/ods_03.png",
+      "url": "https://brasil.un.org/pt-br/sdgs/3"
+    },
+    {
+      "title": "Fome e pobreza (ODS 1, 2 & 10)",
+      "ModalImage": "img/Causa-1-2-10.png",
+      "smallImage": "https://images.unsplash.com/photo-1645264531554-ea687bf4591e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=867&q=80",
+      "description": "Erradicar a pobreza em todas as formas e em todos os lugares",
+      "img": "https://crianca.mppr.mp.br/arquivos/Image/icons/ods/ods_01.png",
+      "img2": "https://crianca.mppr.mp.br/arquivos/Image/icons/ods/ods_02.png",
+      "img3": "https://crianca.mppr.mp.br/arquivos/Image/icons/ods/ods_10.png",
+      "url": "https://brasil.un.org/pt-br/sdgs/1"
+    },
+    {
+      "title": "Idosos (ODS 3 e 11)",
+      "ModalImage": "img/Causa-3-11.png",
+      "smallImage": "https://images.unsplash.com/photo-1508963493744-76fce69379c0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "description": "Tornar as cidades e comunidades mais inclusivas, seguras, resilientes e sustentáveis",
+      "img": "https://crianca.mppr.mp.br/arquivos/Image/icons/ods/ods_03.png",
+      "img2": "https://crianca.mppr.mp.br/arquivos/Image/icons/ods/ods_11.png",
+      "url": "https://brasil.un.org/pt-br/sdgs/3"
+    },
+    {
+      "title": "Crianças (ODS 3 e 11)",
+      "ModalImage": "img/Causa-3-11.png",
+      "smallImage": "https://images.unsplash.com/photo-1540479859555-17af45c78602?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "description": "Tornar as cidades e comunidades mais inclusivas, seguras, resilientes e sustentáveis",
+      "img": "https://crianca.mppr.mp.br/arquivos/Image/icons/ods/ods_03.png",
+      "img2": "https://crianca.mppr.mp.br/arquivos/Image/icons/ods/ods_11.png",
+      "url": "https://brasil.un.org/pt-br/sdgs/3"
+    },
+    {
+      "title": "Educação (ODS 4, 10)",
+      "ModalImage": "img/Causa-4-10.png",
+      "smallImage": "https://images.unsplash.com/photo-1497633762265-9d179a990aa6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=873&q=80",
+      "description": "Garantir o acesso à educação inclusiva, de qualidade e equitativa, e promover oportunidades de aprendizagem ao longo da vida para todos",
+      "img": "https://crianca.mppr.mp.br/arquivos/Image/icons/ods/ods_04.png",
+      "img2": "https://crianca.mppr.mp.br/arquivos/Image/icons/ods/ods_10.png",
+      "url": "https://brasil.un.org/pt-br/sdgs/4"
+    },
+    {
+      "title": "Causas climáticas (ODS 13)",
+      "ModalImage": "img/Causa-13.png",
+      "smallImage": "https://images.unsplash.com/photo-1507680465142-ef2223e23308?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=751&q=80",
+      "description": "Adotar medidas urgentes para combater as alterações climáticas e os seus impactos",
+      "img": "https://crianca.mppr.mp.br/arquivos/Image/icons/ods/ods_13.png",
+      "url": "https://brasil.un.org/pt-br/sdgs/13"
+    },
+    {
+      "title": "Violência contra mulher (ODS 5 e 16)",
+      "ModalImage": "img/Causa-5-16.png",
+      "smallImage": "https://images.unsplash.com/photo-1592807696869-a11c8f62c494?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "description": "Alcançar a igualdade de gênero e empoderar todas as mulheres e meninas",
+      "img": "https://crianca.mppr.mp.br/arquivos/Image/icons/ods/ods_05.png",
+      "img2": "https://crianca.mppr.mp.br/arquivos/Image/icons/ods/ods_16.png",
+      "url": "https://brasil.un.org/pt-br/sdgs/5"
+    },
+    {
+      "title": "Meio ambiente (ODS 11, 12, 13, 14 e 15)",
+      "ModalImage": "img/Causa-11-12-13-14.png",
+      "smallImage": "https://images.unsplash.com/photo-1416169607655-0c2b3ce2e1cc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80",
+      "description": "Garantir padrões de consumo e de produção sustentáveis",
+      "img": "https://crianca.mppr.mp.br/arquivos/Image/icons/ods/ods_11.png",
+      "img2": "https://crianca.mppr.mp.br/arquivos/Image/icons/ods/ods_12.png",
+      "img3": "https://crianca.mppr.mp.br/arquivos/Image/icons/ods/ods_13.png",
+      "img4": "https://crianca.mppr.mp.br/arquivos/Image/icons/ods/ods_14.png",
+      "url": "https://brasil.un.org/pt-br/sdgs/11"
+    },
+    {
+      "title": "Inclusão e diversidade (ODS 5)",
+      "ModalImage": "img/Causa-5.png",
+      "smallImage": "https://images.unsplash.com/photo-1579208575657-c595a05383b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "description": "Promover sociedades pacíficas e inclusivas para o desenvolvimento sustentável, proporcionar o acesso à justiça para todos e construir instituições eficazes, responsáveis e inclusivas a todos os níveis",
+      "img": "https://crianca.mppr.mp.br/arquivos/Image/icons/ods/ods_05.png",
+      "url": "https://brasil.un.org/pt-br/sdgs/5"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/bio_specialist_logo.jpeg",
+      "text": "Montar um stand personalizado na feira é sempre um desafio e uma dificuldade grande. Na verdade 'era' difícil porque o nossostand facilitou, e muito, todo esse processo, colocando tudo no mesmo lugar e com ferramentas que facilitam o processo de comunicação e gerenciamento do projeto. Além da montagem, todo o suporte técnico da equipe nossostand facilitou muito nossa feira! Tudo impecável e com muita praticidade.",
+      "name": "Tahone Jacobs, BS&CO"
+    },
+    {
+      "img": "img/testimonials/logo_wvegan.png",
+      "text": "Adorei desde o atendimento até a execução. Não preciso mais ficar orçando de todo jeito, mandando emails, whatsapp, direct de instagram. Tudo eu resolvo na nossostand, e sempre vou confiar.",
+      "name": "Fernanda Baffa, W VEGAN"
+    },
+    {
+      "img": "img/testimonials/bio_specialist_logo.jpeg",
+      "text": "Montar um stand personalizado na feira é sempre um desafio e uma dificuldade grande. Na verdade 'era' difícil porque o nossostand facilitou, e muito, todo esse processo, colocando tudo no mesmo lugar e com ferramentas que facilitam o processo de comunicação e gerenciamento do projeto. Além da montagem, todo o suporte técnico da equipe nossostand facilitou muito nossa feira! Tudo impecável e com muita praticidade.",
+      "name": "Tahone Jacobs, BS&CO"
+    },
+    {
+      "img": "img/testimonials/logo_wvegan.png",
+      "text": "Adorei desde o atendimento até a execução. Não preciso mais ficar orçando de todo jeito, mandando emails, whatsapp, direct de instagram. Tudo eu resolvo na nossostand, e sempre vou confiar.",
+      "name": "Fernanda Baffa, W VEGAN"
+    },
+    {
+      "img": "img/testimonials/bio_specialist_logo.jpeg",
+      "text": "Montar um stand personalizado na feira é sempre um desafio e uma dificuldade grande. Na verdade 'era' difícil porque o nossostand facilitou, e muito, todo esse processo, colocando tudo no mesmo lugar e com ferramentas que facilitam o processo de comunicação e gerenciamento do projeto. Além da montagem, todo o suporte técnico da equipe nossostand facilitou muito nossa feira! Tudo impecável e com muita praticidade.",
+      "name": "Tahone Jacobs, BS&CO"
+    },
+    {
+      "img": "img/testimonials/logo_wvegan.png",
+      "text": "Adorei desde o atendimento até a execução. Não preciso mais ficar orçando de todo jeito, mandando emails, whatsapp, direct de instagram. Tudo eu resolvo na nossostand, e sempre vou confiar.",
+      "name": "Fernanda Baffa, W VEGAN"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "4321 California St, San Francisco, CA 12345 ",
+    "phone": "+1 123 456 1234",
+    "email": "info@company.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}

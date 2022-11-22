@@ -1,0 +1,62 @@
+.mainer {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+}
+
+.left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.right {
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    padding: 20px;
+    margin-left: 50px;
+}
+
+.left img {
+    width: 250px;
+    height: auto;
+    transform: rotate(-25deg);
+    margin-right: 100px;
+}
+
+.right img {
+    width: 250px;
+    height: auto;
+    align-self: center;
+    margin-top: 30px;
+}
+
+.right h1 {
+    color: black;
+    font-weight: 600;
+    width: 300px;
+    height: auto;
+    align-self: center;
+    margin-top: 30px;
+}
+
+.right h2 {
+    color: black;
+    font-weight: 500;
+    width: 300px;
+    height: auto;
+    align-self: center;
+    margin-top: 30px;
+}
+
+.right p {
+    color: black;
+    font-weight: 500;
+    width: 350px;
+    margin-left: 40px;
+    height: auto;
+    align-self: center;
+    margin-top: 30px;
+}

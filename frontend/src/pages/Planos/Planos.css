@@ -1,0 +1,92 @@
+.backImages {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main-div {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    margin-top: 170px;
+}
+
+.middlee {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 70px 0px !important;
+    width: 100% !important;
+}
+
+.carder {
+    background-color: #fff;
+    box-shadow: 0 0 7px;
+    height: 40vh;
+    width: 40vh;
+    margin: 0 15px;
+    border-radius: 5px;
+    padding-bottom: 350px;
+}
+
+.carder-inside {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+}
+
+.carder-outside {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.divisor{
+width: 50vw;
+}
+
+.carder-outside p {
+    padding: 40px;
+}
+
+
+.carder-inside h1{
+font-weight: 800;
+color: black;
+font-size: 30px;
+margin-top: -5px;
+}
+
+.carder-inside h3{
+    font-weight: 500;
+    font-size: 30px;
+    color: black;
+}
+.btn__plano{
+    margin-top: 50px;
+    padding: 15px;
+    background: #8A8A8A;
+    border: none;
+    color: #ffffff;
+}
+
+@media (max-width: 900px){
+    .middlee {
+      flex-wrap: wrap;
+    }
+    .backImages{
+        flex-wrap: wrap;
+    }
+    .backImages img{
+        width: 50px !important;
+        height: 50px !important;
+    }
+    .backImages h2{
+        font-size: 25px;
+        padding: 0 !important;
+    }
+}

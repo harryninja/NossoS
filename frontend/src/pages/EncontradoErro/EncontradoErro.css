@@ -1,0 +1,22 @@
+.error {
+    height: 85vh;
+    width: auto;
+}
+
+.giant-circle {
+    margin: 150px 100px;
+    background-color: #f2f2f2;
+    height: 80vh;
+    width: auto;
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    contain:content;
+    justify-content: center;
+    align-items: center;
+}
+
+.giant-circle img{
+    width: 80vh;
+    height: auto;
+}
